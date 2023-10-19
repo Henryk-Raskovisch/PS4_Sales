@@ -1,3 +1,4 @@
+![image](https://github.com/Henryk-Raskovisch/PS4_Sales/assets/144486400/9dc29413-d45a-4ae8-b1fb-91afcc124948)
 
 In this project I did an exploratory analysis of market data for PS4 games. After that, we can come to some conclusions:
 
